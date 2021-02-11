@@ -1,0 +1,25 @@
+{
+  "name": "conversor-de-csv-para-pdf-node",
+  "version": "1.0.0",
+  "description": "Programa para converter arquivos .CSV para .PDF (sem interface gráfica)",
+  "main": "HTMLParser.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "html-pdf": "^2.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurHSsouza/Conversor-de-CSV-para-PDF-Node.git"
+  },
+  "author": "ArthurHSsouza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurHSsouza/Conversor-de-CSV-para-PDF-Node/issues"
+  },
+  "homepage": "https://github.com/ArthurHSsouza/Conversor-de-CSV-para-PDF-Node#readme"
+}
