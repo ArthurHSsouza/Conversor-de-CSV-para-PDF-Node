@@ -1,8 +1,8 @@
-const Reader = require("./Reader");
-const Processor = require("./Processor");
-const Table = require("./Table");
-const HTMLParser = require("./HTMLParser");
-const HTMLWriter = require('./HTMLWriter');
+const Reader = require("./src/Reader");
+const Processor = require("./src/Processor");
+const Table = require("./src/Table");
+const HTMLParser = require("./src/HTMLParser");
+const HTMLWriter = require('./src/HTMLWriter');
 const readline = require('readline-sync');
 
  const reader = new Reader();
