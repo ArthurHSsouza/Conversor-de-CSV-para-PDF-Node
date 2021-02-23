@@ -1,2 +1,2 @@
-# Conversor-de-CSV-para-PDF-Node.js
+# Conversor de CSV para PDF
 Programa para converter arquivos .CSV para .PDF (sem interface gráfica)
