@@ -5,7 +5,7 @@
   "main": "HTMLParser.js",
   "dependencies": {
     "ejs": "^3.1.6",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {},
